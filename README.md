@@ -82,3 +82,4 @@ There is also a list of assets used in the project that I am allowed to distribu
 
 **Eversea** was designed during the [Brackeys Game Jam 2024.2](https://itch.io/jam/brackeys-12) and developed in the following months as a learning experience. Thank you for checking out the project!
 The project also has an [itch.io](https://th3raptor.itch.io/eversea) page you can check out.
+The Game Build folder contains the game executable in a zipped format. You can copy and unzip the file to try out the game!
