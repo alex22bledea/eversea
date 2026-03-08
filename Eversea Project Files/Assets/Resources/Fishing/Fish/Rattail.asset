@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 494e626657138e54aab9bb8ce6c4b456, type: 3}
+  m_Name: Rattail
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Rattail
+  <rarities>k__BackingField:
+  - <Rarity>k__BackingField: {fileID: 11400000, guid: 8222a1dece1d3fb4ba08e70736076750, type: 2}
+    <Chance>k__BackingField: 0.45
+  - <Rarity>k__BackingField: {fileID: 11400000, guid: cb8fbd2a04b61c64db0d699f29827ba5, type: 2}
+    <Chance>k__BackingField: 0.25
+  - <Rarity>k__BackingField: {fileID: 11400000, guid: 723bc3ba042d2194094694d45757aebc, type: 2}
+    <Chance>k__BackingField: 0.15
+  - <Rarity>k__BackingField: {fileID: 11400000, guid: d8aed5affe8970b459ccf90edc592c89, type: 2}
+    <Chance>k__BackingField: 0.15

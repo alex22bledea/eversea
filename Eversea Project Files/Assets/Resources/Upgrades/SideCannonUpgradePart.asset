@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66119f9891363f54dab7ee30b5d1419e, type: 3}
+  m_Name: SideCannonUpgradePart
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Side Cannons
+  <StartsUnlocked>k__BackingField: 0
+  <RequirementPart>k__BackingField: {fileID: 11400000, guid: 93bf9974fce2ec146a3f85d43cb85289, type: 2}
+  upgradeLevelList:
+  - <Cost>k__BackingField: 500
+    <LvlReq>k__BackingField: 0
+    <Damage>k__BackingField: 25
+    AtkSpeed: {x: 10, y: 15}
+    <FOV>k__BackingField: 20
+    <Range>k__BackingField: 4500
+  - <Cost>k__BackingField: 750
+    <LvlReq>k__BackingField: 1
+    <Damage>k__BackingField: 35
+    AtkSpeed: {x: 8, y: 14}
+    <FOV>k__BackingField: 23
+    <Range>k__BackingField: 5000
+  - <Cost>k__BackingField: 1000
+    <LvlReq>k__BackingField: 2
+    <Damage>k__BackingField: 30
+    AtkSpeed: {x: 7, y: 13}
+    <FOV>k__BackingField: 26
+    <Range>k__BackingField: 6000
+  - <Cost>k__BackingField: 2000
+    <LvlReq>k__BackingField: 3
+    <Damage>k__BackingField: 50
+    AtkSpeed: {x: 6, y: 11}
+    <FOV>k__BackingField: 28
+    <Range>k__BackingField: 6000
+  - <Cost>k__BackingField: 2500
+    <LvlReq>k__BackingField: 3
+    <Damage>k__BackingField: 60
+    AtkSpeed: {x: 6, y: 11}
+    <FOV>k__BackingField: 26
+    <Range>k__BackingField: 6000
+  - <Cost>k__BackingField: 4250
+    <LvlReq>k__BackingField: 4
+    <Damage>k__BackingField: 65
+    AtkSpeed: {x: 5, y: 11}
+    <FOV>k__BackingField: 26
+    <Range>k__BackingField: 6000
+  - <Cost>k__BackingField: 6000
+    <LvlReq>k__BackingField: 5
+    <Damage>k__BackingField: 75
+    AtkSpeed: {x: 4.5, y: 10}
+    <FOV>k__BackingField: 26
+    <Range>k__BackingField: 6000

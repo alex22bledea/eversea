@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b2821b5bea1a7948a01b771b95c969d, type: 3}
+  m_Name: FishDrops
+  m_EditorClassIdentifier: 
+  Items:
+  - <Fish>k__BackingField: {fileID: 11400000, guid: 1d121b9c6a790194ba689dec3ea482eb, type: 2}
+    <Chance>k__BackingField: 0.22
+  - <Fish>k__BackingField: {fileID: 11400000, guid: 7bfcd8e6445f9c440a156c3f39c69cb6, type: 2}
+    <Chance>k__BackingField: 0.21
+  - <Fish>k__BackingField: {fileID: 11400000, guid: 4238d77feb806774aa0142f228e60b6b, type: 2}
+    <Chance>k__BackingField: 0.17
+  - <Fish>k__BackingField: {fileID: 11400000, guid: 6ec3c9fbed187c641b94aca13ac3ffae, type: 2}
+    <Chance>k__BackingField: 0.15
+  - <Fish>k__BackingField: {fileID: 11400000, guid: 00f5c29aa33a7e04b8f84f0e2125f4c2, type: 2}
+    <Chance>k__BackingField: 0.11
+  - <Fish>k__BackingField: {fileID: 11400000, guid: 6a541866c2c60a94b968118be448dd68, type: 2}
+    <Chance>k__BackingField: 0.09
+  - <Fish>k__BackingField: {fileID: 11400000, guid: 5ed5d136f1c210742aef0596aaa53f53, type: 2}
+    <Chance>k__BackingField: 0.06

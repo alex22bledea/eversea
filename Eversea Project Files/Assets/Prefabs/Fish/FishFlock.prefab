@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5277139796623945794
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7058496780021563960}
+  - component: {fileID: 3291473169324381823}
+  m_Layer: 0
+  m_Name: FishFlock
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7058496780021563960
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5277139796623945794}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 7.54, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3291473169324381823
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5277139796623945794}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c37f5e5d85648e549820b0467c43eeab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  radius: 12
+  height: 3
+  fishPrefabArray:
+  - {fileID: 8749731388567880235, guid: 276cd9ab2d5b1164daeb1f90ff9c0814, type: 3}
+  - {fileID: 8749731388567880235, guid: 3ca09ad9a5918994798972ba886eb1a8, type: 3}
+  - {fileID: 8749731388567880235, guid: c9900521c178e6c47b66bfd1fbf30aee, type: 3}
+  - {fileID: 8749731388567880235, guid: ce15c5354eba74847a5d9247752e8a63, type: 3}
+  fishCountRange: {x: 16, y: 25}
+  fishScaleRange: {x: 0.75, y: 1.25}
+  drawGizmos: 1

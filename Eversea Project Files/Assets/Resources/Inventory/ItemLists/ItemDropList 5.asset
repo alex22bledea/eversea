@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db161080a710d83468bc03b7f58163f1, type: 3}
+  m_Name: ItemDropList 5
+  m_EditorClassIdentifier: 
+  Items:
+  - <Item>k__BackingField: {fileID: 11400000, guid: 0176c5ff8658e2d4193499fa67778e88, type: 2}
+    <Chance>k__BackingField: 0.6
+  - <Item>k__BackingField: {fileID: 11400000, guid: fc848ace8320e16408f96cae89592a0a, type: 2}
+    <Chance>k__BackingField: 0.4
+  totalChance: 1

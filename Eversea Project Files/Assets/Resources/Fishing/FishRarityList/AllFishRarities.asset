@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5240651750131af4bb6216febc50f864, type: 3}
+  m_Name: AllFishRarities
+  m_EditorClassIdentifier: 
+  Items:
+  - {fileID: 11400000, guid: 8222a1dece1d3fb4ba08e70736076750, type: 2}
+  - {fileID: 11400000, guid: cb8fbd2a04b61c64db0d699f29827ba5, type: 2}
+  - {fileID: 11400000, guid: 723bc3ba042d2194094694d45757aebc, type: 2}
+  - {fileID: 11400000, guid: d8aed5affe8970b459ccf90edc592c89, type: 2}
+  - {fileID: 11400000, guid: 8e8b64001a3ee214c825c9a392e1e817, type: 2}

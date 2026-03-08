@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 362dc96189d3e714ba38cb9cff2d306a, type: 3}
+  m_Name: Group_3.0_EnemySpawn
+  m_EditorClassIdentifier: 
+  <Weight>k__BackingField: 9
+  EnemyPrefabList:
+  - {fileID: 2522368227035989534, guid: 61ee31d08672f8d4f97fd98fcb2c2886, type: 3}
+  - {fileID: 2522368227035989534, guid: 61ee31d08672f8d4f97fd98fcb2c2886, type: 3}
+  - {fileID: 2522368227035989534, guid: 61ee31d08672f8d4f97fd98fcb2c2886, type: 3}

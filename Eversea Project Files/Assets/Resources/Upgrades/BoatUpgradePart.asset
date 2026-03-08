@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2db6bb8de255db43ba13cfbe6693538, type: 3}
+  m_Name: BoatUpgradePart
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Boat
+  <StartsUnlocked>k__BackingField: 1
+  <RequirementPart>k__BackingField: {fileID: 0}
+  upgradeLevelList:
+  - <Cost>k__BackingField: 0
+    <LvlReq>k__BackingField: 0
+    <Speed>k__BackingField: 25
+    <Health>k__BackingField: 100
+  - <Cost>k__BackingField: 350
+    <LvlReq>k__BackingField: 0
+    <Speed>k__BackingField: 30
+    <Health>k__BackingField: 150
+  - <Cost>k__BackingField: 800
+    <LvlReq>k__BackingField: 0
+    <Speed>k__BackingField: 33
+    <Health>k__BackingField: 200
+  - <Cost>k__BackingField: 1500
+    <LvlReq>k__BackingField: 0
+    <Speed>k__BackingField: 36
+    <Health>k__BackingField: 250
+  - <Cost>k__BackingField: 3000
+    <LvlReq>k__BackingField: 0
+    <Speed>k__BackingField: 40
+    <Health>k__BackingField: 300
+  - <Cost>k__BackingField: 3650
+    <LvlReq>k__BackingField: 0
+    <Speed>k__BackingField: 45
+    <Health>k__BackingField: 350
+  - <Cost>k__BackingField: 8000
+    <LvlReq>k__BackingField: 0
+    <Speed>k__BackingField: 50
+    <Health>k__BackingField: 400
